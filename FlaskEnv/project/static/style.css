@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    width: 1000px;
+}
+.wrapper {
+    margin-left: auto;
+    margin-left: auto;
+}
+
+.mainMenu {
+    margin-left: 10px;
+    padding: 10px;
+    display: flex;
+    list-style: none;
+}
